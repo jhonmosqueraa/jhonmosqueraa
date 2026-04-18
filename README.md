@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Jhon Mosquera<br><br>**Full-Stack Developer | SaaS Builder | Security-Minded | AI-Driven**<br><br>I'm a junior developer focused on building **SaaS products, dashboards, and modern web applications** while continuously improving my skills through real-world projects.<br><br>I enjoy turning ideas into functional products, combining **clean design, solid backend architecture, and a strong focus on security and performance**.<br><br>---<br><br>🚀 About Me<br><br>- 🔭 Currently building **SaaS tools, landing pages, and dashboards**<br>- ⚡ Focused on **practical learning by building real applications**<br>- 🛡️ Security-conscious: interested in **data protection, authentication, and reliable systems**<br>- 🤖 Using AI as a **development copilot** to improve speed and code quality<br>- 📈 Committed to **continuous growth and consistency**<br><br>---<br><br>🛠️ Tech Stack<br><br>**Frontend**  <br>- React.js  <br>- Tailwind CSS  <br><br>**Backend**  <br>- FastAPI (Python)  <br>- REST API development  <br><br>**Database & Auth**  <br>- Supabase (PostgreSQL)  <br>- Authentication & user management  <br><br>**Automation & Tools**  <br>- n8n  <br>- AI workflows & automation  <br><br>---<br><br>🧠 Current Focus<br><br>- Building **scalable SaaS ideas**<br>- Improving **backend development and security practices**<br>- Creating **clean, responsive, and user-friendly interfaces**<br>- Learning by **shipping projects consistently**<br><br>---<br><br>🎯 Goals<br><br>- 🌍 Work remotely with startups or global teams  <br>- 🚀 Contribute to meaningful and impactful products  <br>- 💡 Grow as a developer while helping others through technology  <br><br>---<br><br>🎮 Beyond Code<br><br>- 🕹️ Gaming (strategy and problem-solving mindset)  <br>- 🏃‍♂️ Sports and staying active  <br>- 🧠 Learning about technology, security, and systems  <br><br>---<br><br>🤝 Let's Connect<br><br>- LinkedIn: *[Add your link]*  <br>- Email: *[Add your email]*  <br><br>---<br><br>⚡ Philosophy<br><br>> Build fast. Learn faster. Stay secure.  <br>> Technology should empower people — not complicate their lives.
 
-<!--
-**jhonmosqueraa/jhonmosqueraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosquerajhon02.dev@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jhonmosqueraa&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jhonmosqueraa&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jhonmosqueraa&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jhonmosqueraa&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
