@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Jhon%20Mosquera&fontColor=ffffff&fontSize=50&fontAlignY=40" width="100%" />
+<img src="banner.jpg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Jhon Mosquera</h1>
 
