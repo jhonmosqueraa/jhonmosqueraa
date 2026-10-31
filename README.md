@@ -12,9 +12,7 @@
 
 <p align="center">Creating fast, responsive and user-friendly interfaces with clean, maintainable code.</p>
 
----
-
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 **Jhon**, here — a frontend developer focused on building modern, responsive and visually polished web interfaces.
 
@@ -24,28 +22,28 @@ Currently, I'm working with **Next.js, TypeScript and Tailwind CSS**, while impr
 
 My goal is simple: write clean code, build products people enjoy using, and keep growing as a developer.
 
-## 🤝 Connect
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
   <a href="https://github.com/jhonmosqueraa"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mosquerajhon02.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mosquerajhon02.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma&perline=12" />
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jhonmosqueraa&theme=dark&hide_border=true&background=161B22" />
 </p>
 
-## 📈 Activity Graph
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonmosqueraa&custom_title=jhonmosqueraa%27s%20Contribution%20Graph&bg_color=161B22&color=C9D1D9&line=4C8DFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonmosqueraa&theme=github-compact&hide_border=true" width="100%" />
 </p>
