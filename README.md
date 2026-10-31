@@ -39,11 +39,11 @@ My goal is simple: write clean code, build products people enjoy using, and keep
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jhonmosqueraa&theme=dark&hide_border=true&background=161B22" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jhonmosqueraa&theme=iceberg&hide_border=true&border_radius=4&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonmosqueraa&theme=github-compact&hide_border=true" width="100%" />
+
 </p>
