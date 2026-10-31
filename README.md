@@ -1,54 +1,51 @@
-<!--
-GITHUB PROFILE README — Jhon Mosquera
-1) Create a public repository whose name is EXACTLY your GitHub username.
-2) Replace every TODO / YOUR_GITHUB_USERNAME / YOUR_LINK placeholder.
-3) Add real technologies and projects only after confirming they represent your experience.
---><div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:171923,100:303744&height=190&section=header&text=Jhon%20Mosquera&fontSize=42&fontColor=F5F5F5&fontAlignY=38&desc=Frontend%20Developer&descSize=18&descColor=C4C8D0&descAlignY=60" alt="Jhon Mosquera — Frontend Developer" />
-  <h3>Hi 👋, I'm Jhon Mosquera</h3>
-  <p><code>Frontend Developer</code> · <code>Building thoughtful digital experiences</code></p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=303744&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
-</div>👨‍💻 About Me
-Hi, I'm Jhon, a Frontend Developer interested in creating clean, intuitive, and responsive web experiences.
-- 🔭 Currently working on: <!-- TODO: current project or learning focus -->
-- 🌱 Currently learning: <!-- TODO: technologies or skills -->
-- 🎯 Goal: Build useful, accessible, and polished digital products.
-- 💬 Ask me about: <!-- TODO: technologies you can confidently discuss -->
-- 📫 Contact: <!-- TODO: professional email -->
-🤝 Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Jhon%20Mosquera&fontColor=ffffff&fontSize=50&fontAlignY=40" width="100%" />
+
+<h1 align="center">Hi 👋, I'm Jhon Mosquera</h1>
+
+<h3 align="center">Frontend Developer</h3>
+
 <p align="center">
-  <!-- Replace the URLs below with your real profiles; remove any network you do not use. -->
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-171923?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-171923?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-171923?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>🧰 Tech Stack
-<!-- Add only technologies you use or are actively learning. Example badge format:
-<img src="https://img.shields.io/badge/JavaScript-171923?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
---><p align="center">
-  <!-- TODO: Add your confirmed languages, frameworks, tools, and platforms here. -->
-  <i>Technologies and tools will be listed here.</i>
-</p>🚀 Featured Projects
-<!-- Replace these placeholders with real repositories and concise descriptions. --><table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Project One</strong><br />
-      Short description of the problem it solves and your contribution.<br /><br />
-      <a href="YOUR_PROJECT_ONE_URL">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Project Two</strong><br />
-      Short description of the problem it solves and your contribution.<br /><br />
-      <a href="YOUR_PROJECT_TWO_URL">View repository →</a>
-    </td>
-  </tr>
-</table>📊 GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=AAB4C0&icon_color=8B9BB4&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=AAB4C0" alt="Most used languages" />
-</div><div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=AAB4C0&line=8B9BB4&point=E6EDF3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div><div align="center">
-  <sub>“Great interfaces are built with care, clarity, and consistency.”</sub>
-</div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=C9D1D9&center=true&vCenter=true&width=420&lines=Building+modern+web+experiences;Clean+code.+Pixel-perfect+UI." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">Creating fast, responsive and user-friendly interfaces with clean, maintainable code.</p>
+
+---
+
+## 🚀 About Me
+
+**Jhon**, here — a frontend developer focused on building modern, responsive and visually polished web interfaces.
+
+I enjoy turning designs into real, fast and accessible websites, paying attention to every detail of the user experience.
+
+Currently, I'm working with **Next.js, TypeScript and Tailwind CSS**, while improving my skills in **performance, responsive design and SEO**.
+
+My goal is simple: write clean code, build products people enjoy using, and keep growing as a developer.
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/jhonmosqueraa"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:mosquerajhon02.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,figma&perline=12" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jhonmosqueraa&theme=dark&hide_border=true&background=161B22" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonmosqueraa&custom_title=jhonmosqueraa%27s%20Contribution%20Graph&bg_color=161B22&color=C9D1D9&line=4C8DFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
